@@ -165,9 +165,8 @@ button:hover {
 
 
 @media (min-width: 1400px) {
-    .sub_second{
-        margin-right: 20%;
-        margin-left: 20%;
+    .sub_second img {
+        width: 50%;
     }
      #third_part div {
          height: 300px;
